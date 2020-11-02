@@ -1,0 +1,21 @@
+h1{
+  text-decoration: underline;
+  text-align: center;
+}
+.delay{
+  text-indent: 10%;
+}
+.transform{
+  text-transform:capitalize;
+}
+
+.upper{
+  text-transform:uppercase;
+
+}
+.space{
+  word-spacing: 10px;
+}
+.letterspace{
+  letter-spacing:8px;
+}
